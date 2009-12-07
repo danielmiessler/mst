@@ -1,0 +1,3 @@
+When you first deploy mst you need to place it in your system's path. This makes it easy for you to perform scans for each client/subnet/range.
+
+Once you have the mst.sh in your path, you can create the folders needed for the scans. I use client-subnet, but you can use what ever you wish to make it easy to remember.  
